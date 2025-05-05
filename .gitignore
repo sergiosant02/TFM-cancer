@@ -1,0 +1,7 @@
+venv/
+images/*
+.DS_Store
+.ipynb_checkpoints/cnn_clasificador_perrosgatos_earlystopping_spaatt_maxpooling-checkpoint.py
+.ipynb_checkpoints/MLP_Onco_Genomics_DrugSensitivit_sergio-checkpoint.ipynb
+.ipynb_checkpoints/MLP_OncoGenomicsDrugSensi_loss2025-03-05 20:16:19.532817-checkpoint.jpg
+.ipynb_checkpoints/requirements-checkpoint.txt
